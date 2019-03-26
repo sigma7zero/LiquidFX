@@ -1,0 +1,11 @@
+LiquidFX v1.5
+
+	- added a simple flipbook node for animated normal maps.
+	- created a 'rain drops on a wet road' effect
+	- created a waterfall effect
+	- added masking to restrict areas where refraction occurs
+	- added a toxic waste texture
+
+sigma7zero
+26th March 2019
+MIT License 
